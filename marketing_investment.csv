@@ -1,0 +1,423 @@
+﻿Product Category,Client,Year,Marketing Investment
+Laundry Wash,Spar,2020,580397.6468
+Laundry Wash,Spar,2021,536223.2895
+Laundry Wash,Spar,2022,569417.5965
+Laundry Wash,Spar,2023,317855.5384
+Cleaning,Spar,2020,674436.9692
+Cleaning,Spar,2021,385051.4946
+Cleaning,Spar,2022,906913.9446
+Cleaning,Spar,2023,167347.087
+Laundry Refreshment,Spar,2020,224816.8183
+Laundry Refreshment,Spar,2021,212794.2143
+Laundry Refreshment,Spar,2022,380669.1279
+Laundry Refreshment,Spar,2023,182958.8564
+Laundry Wash,Aldi,2020,1766582.792
+Laundry Wash,Aldi,2021,1532118.344
+Laundry Wash,Aldi,2022,1605267.759
+Laundry Wash,Aldi,2023,590879.8613
+Cleaning,Aldi,2020,849307.4239
+Cleaning,Aldi,2021,985368.9468
+Cleaning,Aldi,2022,1408724.132
+Cleaning,Aldi,2023,851700.215
+Laundry Refreshment,Aldi,2020,641586.0682
+Laundry Refreshment,Aldi,2021,571573.3595
+Laundry Refreshment,Aldi,2022,1517833.474
+Laundry Refreshment,Aldi,2023,460039.7714
+Laundry Wash,Kaufland,2020,13268920.92
+Laundry Wash,Kaufland,2021,8383199.916
+Laundry Wash,Kaufland,2022,13076728.37
+Laundry Wash,Kaufland,2023,5759979.965
+Cleaning,Kaufland,2020,7974507.691
+Cleaning,Kaufland,2021,6652013.144
+Cleaning,Kaufland,2022,4262243.163
+Cleaning,Kaufland,2023,2002080.495
+Laundry Refreshment,Kaufland,2020,6206769.985
+Laundry Refreshment,Kaufland,2021,4071166.511
+Laundry Refreshment,Kaufland,2022,3593203.963
+Laundry Refreshment,Kaufland,2023,1307506.058
+Laundry Wash,Globus,2020,2284128.091
+Laundry Wash,Globus,2021,4235171.816
+Laundry Wash,Globus,2022,2338704.571
+Laundry Wash,Globus,2023,2112809.645
+Cleaning,Globus,2020,6648273.26
+Cleaning,Globus,2021,10220587.58
+Cleaning,Globus,2022,11027879.87
+Cleaning,Globus,2023,7403877.219
+Laundry Refreshment,Globus,2020,4054610.392
+Laundry Refreshment,Globus,2021,2273209.463
+Laundry Refreshment,Globus,2022,4027272.718
+Laundry Refreshment,Globus,2023,1922624.817
+Laundry Wash,Aldi,2020,156564871.1
+Laundry Wash,Aldi,2021,152791979.9
+Laundry Wash,Aldi,2022,125082540.3
+Laundry Wash,Aldi,2023,41888436.28
+Cleaning,Aldi,2020,126248955
+Cleaning,Aldi,2021,136938870.5
+Cleaning,Aldi,2022,97198272.53
+Cleaning,Aldi,2023,33993699.14
+Laundry Refreshment,Aldi,2020,62894472.54
+Laundry Refreshment,Aldi,2021,68583365.33
+Laundry Refreshment,Aldi,2022,59468632.76
+Laundry Refreshment,Aldi,2023,21431868.3
+Laundry Wash,Kaufland,2020,32436267.93
+Laundry Wash,Kaufland,2021,27033603.67
+Laundry Wash,Kaufland,2022,18713609.74
+Laundry Wash,Kaufland,2023,6536281
+Cleaning,Kaufland,2020,18889416.8
+Cleaning,Kaufland,2021,22534405.25
+Cleaning,Kaufland,2022,19997284.85
+Cleaning,Kaufland,2023,5905596.082
+Laundry Refreshment,Kaufland,2020,24895814.01
+Laundry Refreshment,Kaufland,2021,18987788.34
+Laundry Refreshment,Kaufland,2022,12264407.21
+Laundry Refreshment,Kaufland,2023,2920301.057
+Laundry Wash,Edeka,2020,320391.8674
+Laundry Wash,Edeka,2021,203179.2752
+Laundry Wash,Edeka,2022,224816.3411
+Laundry Wash,Edeka,2023,77976.5853
+Cleaning,Edeka,2020,187803.6932
+Cleaning,Edeka,2021,196998.4442
+Cleaning,Edeka,2022,141632.99
+Cleaning,Edeka,2023,141755.6745
+Laundry Refreshment,Edeka,2020,156009.7561
+Laundry Refreshment,Edeka,2021,106476.6062
+Laundry Refreshment,Edeka,2022,160826.9646
+Laundry Refreshment,Edeka,2023,111074.7988
+Laundry Wash,Edeka,2020,1064070.577
+Laundry Wash,Edeka,2021,1000156.984
+Laundry Wash,Edeka,2022,848707.7601
+Laundry Wash,Edeka,2023,183073.2943
+Cleaning,Edeka,2020,780621.8535
+Cleaning,Edeka,2021,565444.25
+Cleaning,Edeka,2022,920192.5689
+Cleaning,Edeka,2023,396060.3948
+Laundry Refreshment,Edeka,2020,542027.0155
+Laundry Refreshment,Edeka,2021,332195.8324
+Laundry Refreshment,Edeka,2022,129167.4858
+Laundry Refreshment,Edeka,2023,108155.654
+Laundry Wash,famila,2020,1074528.28
+Laundry Wash,famila,2021,1188338.582
+Laundry Wash,famila,2022,1033754.607
+Laundry Wash,famila,2023,396634.924
+Cleaning,famila,2020,779679.4545
+Cleaning,famila,2021,693136.1615
+Cleaning,famila,2022,731122.9914
+Cleaning,famila,2023,966869.2401
+Laundry Refreshment,famila,2020,966218.5738
+Laundry Refreshment,famila,2021,949179.4177
+Laundry Refreshment,famila,2022,1294990.137
+Laundry Refreshment,famila,2023,456988.1265
+Laundry Wash,Metro Cash and Carry,2020,3344587.85
+Laundry Wash,Metro Cash and Carry,2021,2859004.852
+Laundry Wash,Metro Cash and Carry,2022,1693814.173
+Laundry Wash,Metro Cash and Carry,2023,601441.5527
+Cleaning,Metro Cash and Carry,2020,2327729.979
+Cleaning,Metro Cash and Carry,2021,2006400.404
+Cleaning,Metro Cash and Carry,2022,2639787.838
+Cleaning,Metro Cash and Carry,2023,1450966.6
+Laundry Refreshment,Metro Cash and Carry,2020,947478.1736
+Laundry Refreshment,Metro Cash and Carry,2021,548320.8695
+Laundry Refreshment,Metro Cash and Carry,2022,813866.3147
+Laundry Refreshment,Metro Cash and Carry,2023,1158299.657
+Laundry Wash,Edeka,2020,2687585.516
+Laundry Wash,Edeka,2021,2768796.529
+Laundry Wash,Edeka,2022,2251070.558
+Laundry Wash,Edeka,2023,531094.0063
+Cleaning,Edeka,2020,1981338.163
+Cleaning,Edeka,2021,2149239.725
+Cleaning,Edeka,2022,1757479.185
+Cleaning,Edeka,2023,1315721.217
+Laundry Refreshment,Edeka,2020,858554.651
+Laundry Refreshment,Edeka,2021,770226.6736
+Laundry Refreshment,Edeka,2022,697129.7376
+Laundry Refreshment,Edeka,2023,403431.9813
+Laundry Wash,Edeka,2020,1630878.646
+Laundry Wash,Edeka,2021,1406479.87
+Laundry Wash,Edeka,2022,1156446.743
+Laundry Wash,Edeka,2023,154727.0468
+Cleaning,Edeka,2020,1482268.691
+Cleaning,Edeka,2021,1057309.784
+Cleaning,Edeka,2022,1460225.636
+Cleaning,Edeka,2023,399964.273
+Laundry Refreshment,Edeka,2020,1091912.934
+Laundry Refreshment,Edeka,2021,669129.4743
+Laundry Refreshment,Edeka,2022,781828.4706
+Laundry Refreshment,Edeka,2023,221685.5842
+Laundry Wash,Penny Markt,2020,10486.7082
+Laundry Wash,Penny Markt,2021,8910.759134
+Laundry Wash,Penny Markt,2022,9244.598893
+Laundry Wash,Penny Markt,2023,4030.869524
+Cleaning,Penny Markt,2020,14653.8515
+Cleaning,Penny Markt,2021,9521.152939
+Cleaning,Penny Markt,2022,3522.52768
+Cleaning,Penny Markt,2023,13684.78245
+Laundry Refreshment,Penny Markt,2020,6430.260807
+Laundry Refreshment,Penny Markt,2021,6147.476199
+Laundry Refreshment,Penny Markt,2022,10517.92502
+Laundry Refreshment,Penny Markt,2023,4130.26871
+Laundry Wash,Aldi,2020,570706.3158
+Laundry Wash,Aldi,2021,536494.3358
+Laundry Wash,Aldi,2022,389687.9859
+Laundry Wash,Aldi,2023,85551.73454
+Cleaning,Aldi,2020,393294.9134
+Cleaning,Aldi,2021,469248.4839
+Cleaning,Aldi,2022,563977.9045
+Cleaning,Aldi,2023,295964.5364
+Laundry Refreshment,Aldi,2020,198896.4709
+Laundry Refreshment,Aldi,2021,213809.7358
+Laundry Refreshment,Aldi,2022,367072.4066
+Laundry Refreshment,Aldi,2023,175816.8017
+Laundry Wash,famila,2020,10031552.77
+Laundry Wash,famila,2021,8341366.908
+Laundry Wash,famila,2022,7161759.614
+Laundry Wash,famila,2023,2483298.268
+Cleaning,famila,2020,5708897.096
+Cleaning,famila,2021,7425270.588
+Cleaning,famila,2022,7116124.101
+Cleaning,famila,2023,3841203.466
+Laundry Refreshment,famila,2020,3198975.937
+Laundry Refreshment,famila,2021,2306841.258
+Laundry Refreshment,famila,2022,2788898.923
+Laundry Refreshment,famila,2023,2925646.983
+Laundry Wash,Netto,2020,82579.76983
+Laundry Wash,Netto,2021,61230.82251
+Laundry Wash,Netto,2022,40135.79198
+Laundry Wash,Netto,2023,12591.46154
+Cleaning,Netto,2020,307053.3948
+Cleaning,Netto,2021,268320.9496
+Cleaning,Netto,2022,35429.42888
+Cleaning,Netto,2023,83894.40774
+Laundry Refreshment,Netto,2020,22093.23872
+Laundry Refreshment,Netto,2021,20761.42513
+Laundry Refreshment,Netto,2022,17999.78551
+Laundry Refreshment,Netto,2023,10465.23523
+Laundry Wash,Globus,2020,457869.2135
+Laundry Wash,Globus,2021,661711.9928
+Laundry Wash,Globus,2022,189957.289
+Laundry Wash,Globus,2023,243402.2215
+Cleaning,Globus,2020,653051.2391
+Cleaning,Globus,2021,769052.6438
+Cleaning,Globus,2022,82080.15257
+Cleaning,Globus,2023,89252.96449
+Laundry Refreshment,Globus,2020,239957.8521
+Laundry Refreshment,Globus,2021,361326.212
+Laundry Refreshment,Globus,2022,126710.626
+Laundry Refreshment,Globus,2023,70307.65935
+Laundry Wash,Lidl,2020,2682734.058
+Laundry Wash,Lidl,2021,2668111.876
+Laundry Wash,Lidl,2022,2137843.673
+Laundry Wash,Lidl,2023,724785.3925
+Cleaning,Lidl,2020,2485769.062
+Cleaning,Lidl,2021,1892125.974
+Cleaning,Lidl,2022,1388444.305
+Cleaning,Lidl,2023,511674.5399
+Laundry Refreshment,Lidl,2020,1026647.303
+Laundry Refreshment,Lidl,2021,763140.1776
+Laundry Refreshment,Lidl,2022,623695.7093
+Laundry Refreshment,Lidl,2023,498987.6164
+Laundry Wash,Combi,2020,-14.69705155
+Laundry Wash,Combi,2021,0
+Laundry Wash,Combi,2022,0
+Laundry Wash,Combi,2023,0
+Cleaning,Combi,2020,-25.62653624
+Cleaning,Combi,2021,34.49452391
+Cleaning,Combi,2022,0
+Cleaning,Combi,2023,0
+Laundry Refreshment,Combi,2020,4.427582755
+Laundry Refreshment,Combi,2021,0
+Laundry Refreshment,Combi,2022,0
+Laundry Refreshment,Combi,2023,0
+Laundry Wash,Aldi,2020,1800080.265
+Laundry Wash,Aldi,2021,5375721.451
+Laundry Wash,Aldi,2022,1264700.608
+Laundry Wash,Aldi,2023,718049.1238
+Cleaning,Aldi,2020,2528145.643
+Cleaning,Aldi,2021,2772119.243
+Cleaning,Aldi,2022,1442891.981
+Cleaning,Aldi,2023,923199.4061
+Laundry Refreshment,Aldi,2020,680430.1628
+Laundry Refreshment,Aldi,2021,1082947.803
+Laundry Refreshment,Aldi,2022,782798.2148
+Laundry Refreshment,Aldi,2023,44288.58052
+Laundry Wash,Lidl,2020,449405.0407
+Laundry Wash,Lidl,2021,132455.335
+Laundry Wash,Lidl,2022,63910.83701
+Laundry Wash,Lidl,2023,18796.36827
+Cleaning,Lidl,2020,126912.4587
+Cleaning,Lidl,2021,19333.10481
+Cleaning,Lidl,2022,499522.1425
+Cleaning,Lidl,2023,9067.550474
+Laundry Refreshment,Lidl,2020,15361.78586
+Laundry Refreshment,Lidl,2021,4754.806117
+Laundry Refreshment,Lidl,2022,20197.49703
+Laundry Refreshment,Lidl,2023,15957.93225
+Laundry Wash,Selgros,2020,3250249.324
+Laundry Wash,Selgros,2021,3611515.312
+Laundry Wash,Selgros,2022,1296891.221
+Laundry Wash,Selgros,2023,1043463.039
+Cleaning,Selgros,2020,3664214.95
+Cleaning,Selgros,2021,3753537.966
+Cleaning,Selgros,2022,3540101.508
+Cleaning,Selgros,2023,1102132.264
+Laundry Refreshment,Selgros,2020,1611925.669
+Laundry Refreshment,Selgros,2021,3037737.104
+Laundry Refreshment,Selgros,2022,4187669.558
+Laundry Refreshment,Selgros,2023,832770.7849
+Laundry Wash,Combi,2020,140644.4273
+Laundry Wash,Combi,2021,2653.012018
+Laundry Wash,Combi,2022,-3471.220037
+Laundry Wash,Combi,2023,0
+Cleaning,Combi,2020,90281.52164
+Cleaning,Combi,2021,2005.966974
+Cleaning,Combi,2022,-2316.414417
+Laundry Refreshment,Combi,2020,93585.7967
+Laundry Refreshment,Combi,2021,1303.221899
+Laundry Refreshment,Combi,2022,-2103.123523
+Laundry Wash,Lidl,2020,643431.9733
+Laundry Wash,Lidl,2021,676721.6558
+Laundry Wash,Lidl,2022,473139.3387
+Laundry Wash,Lidl,2023,79095.55486
+Cleaning,Lidl,2020,718518.5083
+Cleaning,Lidl,2021,752096.5822
+Cleaning,Lidl,2022,363374.3595
+Cleaning,Lidl,2023,137481.4775
+Laundry Refreshment,Lidl,2020,314334.2643
+Laundry Refreshment,Lidl,2021,557809.0629
+Laundry Refreshment,Lidl,2022,299335.0071
+Laundry Refreshment,Lidl,2023,61935.55454
+Laundry Wash,Lidl,2020,1734126.114
+Laundry Wash,Lidl,2021,1212848.188
+Laundry Wash,Lidl,2022,750148.1959
+Laundry Wash,Lidl,2023,193603.064
+Cleaning,Lidl,2020,1072220.918
+Cleaning,Lidl,2021,1146790.452
+Cleaning,Lidl,2022,893914.4063
+Cleaning,Lidl,2023,222690.7183
+Laundry Refreshment,Lidl,2020,611176.5425
+Laundry Refreshment,Lidl,2021,1053714.458
+Laundry Refreshment,Lidl,2022,1182948.112
+Laundry Refreshment,Lidl,2023,389621.6718
+Laundry Wash,Bio Company,2020,967472.2836
+Laundry Wash,Bio Company,2021,913512.1225
+Laundry Wash,Bio Company,2022,737733.5456
+Laundry Wash,Bio Company,2023,523468.6879
+Cleaning,Bio Company,2020,1026824.413
+Cleaning,Bio Company,2021,658160.0853
+Cleaning,Bio Company,2022,611805.4979
+Cleaning,Bio Company,2023,568184.9913
+Laundry Refreshment,Bio Company,2020,987045.1878
+Laundry Refreshment,Bio Company,2021,698198.0074
+Laundry Refreshment,Bio Company,2022,851778.3271
+Laundry Refreshment,Bio Company,2023,476350.7401
+Laundry Wash,Edeka,2020,1189952.099
+Laundry Wash,Edeka,2021,1959622.077
+Laundry Wash,Edeka,2022,1135280.852
+Laundry Wash,Edeka,2023,1279815.39
+Cleaning,Edeka,2020,2190910.536
+Cleaning,Edeka,2021,1517407.902
+Cleaning,Edeka,2022,714623.8542
+Cleaning,Edeka,2023,624229.6417
+Laundry Refreshment,Edeka,2020,802934.5125
+Laundry Refreshment,Edeka,2021,1122788.726
+Laundry Refreshment,Edeka,2022,1254416.301
+Laundry Refreshment,Edeka,2023,465957.3081
+Laundry Wash,Lidl,2020,73575.4156
+Laundry Wash,Lidl,2021,48625.44048
+Laundry Wash,Lidl,2022,18331.92132
+Laundry Wash,Lidl,2023,6344.952124
+Cleaning,Lidl,2020,19544.22266
+Cleaning,Lidl,2021,14844.14483
+Cleaning,Lidl,2022,21551.73252
+Cleaning,Lidl,2023,34109.43317
+Laundry Refreshment,Lidl,2020,24313.3072
+Laundry Refreshment,Lidl,2021,18326.56654
+Laundry Refreshment,Lidl,2022,26892.39452
+Laundry Refreshment,Lidl,2023,13216.39284
+Laundry Wash,Edeka,2020,235585.544
+Laundry Wash,Edeka,2021,847.2877647
+Laundry Wash,Edeka,2022,-5060.132037
+Laundry Wash,Edeka,2023,0
+Cleaning,Edeka,2020,169838.4131
+Cleaning,Edeka,2021,2692.867444
+Cleaning,Edeka,2022,-3046.16844
+Cleaning,Edeka,2023,0
+Laundry Refreshment,Edeka,2020,157959.4062
+Laundry Refreshment,Edeka,2021,1481.291457
+Laundry Refreshment,Edeka,2022,-3231.74043
+Laundry Refreshment,Edeka,2023,0
+Laundry Wash,Lidl,2020,3945629.717
+Laundry Wash,Lidl,2021,3048156.634
+Laundry Wash,Lidl,2022,2468039.038
+Laundry Wash,Lidl,2023,1048282.747
+Cleaning,Lidl,2020,2088359.07
+Cleaning,Lidl,2021,2124646.541
+Cleaning,Lidl,2022,2955902.084
+Cleaning,Lidl,2023,1697559.883
+Laundry Refreshment,Lidl,2020,1033112.661
+Laundry Refreshment,Lidl,2021,1005300.292
+Laundry Refreshment,Lidl,2022,1231029.527
+Laundry Refreshment,Lidl,2023,773714.6974
+Laundry Wash,Bio Company,2020,122350.0915
+Laundry Wash,Bio Company,2021,82560.93746
+Laundry Wash,Bio Company,2022,56972.6251
+Laundry Wash,Bio Company,2023,34895.92025
+Cleaning,Bio Company,2020,56573.82296
+Cleaning,Bio Company,2021,43704.24697
+Cleaning,Bio Company,2022,44148.82905
+Cleaning,Bio Company,2023,69309.1553
+Laundry Refreshment,Bio Company,2020,37989.57539
+Laundry Refreshment,Bio Company,2021,50649.0813
+Laundry Refreshment,Bio Company,2022,126570.876
+Laundry Refreshment,Bio Company,2023,52896.91234
+Laundry Wash,Aldi,2020,76193.83711
+Laundry Wash,Aldi,2021,63224.15914
+Laundry Wash,Aldi,2022,42587.97254
+Laundry Wash,Aldi,2023,34763.92263
+Cleaning,Aldi,2020,32732.16021
+Cleaning,Aldi,2021,45441.18479
+Cleaning,Aldi,2022,45770.19897
+Cleaning,Aldi,2023,11865.36568
+Laundry Refreshment,Aldi,2020,11822.61307
+Laundry Refreshment,Aldi,2021,2492.725881
+Laundry Refreshment,Aldi,2022,-185.0878974
+Laundry Refreshment,Aldi,2023,12182.34497
+Laundry Wash,Hit,2020,276373.0425
+Laundry Wash,Hit,2021,370377.7788
+Laundry Wash,Hit,2022,284108.5682
+Laundry Wash,Hit,2023,101245.6067
+Cleaning,Hit,2020,203491.8113
+Cleaning,Hit,2021,418261.0093
+Cleaning,Hit,2022,383428.6406
+Cleaning,Hit,2023,421524.0678
+Laundry Refreshment,Hit,2020,214508.3305
+Laundry Refreshment,Hit,2021,289553.4569
+Laundry Refreshment,Hit,2022,300965.7994
+Laundry Refreshment,Hit,2023,41437.78605
+Laundry Wash,Hit,2020,249456.723
+Cleaning,Hit,2020,89589.6696
+Laundry Refreshment,Hit,2020,22833.93617
+Laundry Wash,Edeka,2020,1121954.404
+Laundry Wash,Edeka,2021,798964.2331
+Laundry Wash,Edeka,2022,758987.8496
+Laundry Wash,Edeka,2023,310037.0782
+Cleaning,Edeka,2020,475455.8633
+Cleaning,Edeka,2021,818373.4364
+Cleaning,Edeka,2022,1077303.707
+Cleaning,Edeka,2023,493313.1164
+Laundry Refreshment,Edeka,2020,487629.199
+Laundry Refreshment,Edeka,2021,500781.7445
+Laundry Refreshment,Edeka,2022,336137.9141
+Laundry Refreshment,Edeka,2023,74538.98247
+Laundry Wash,Aldi,2020,161349.4523
+Laundry Wash,Aldi,2021,138645.7357
+Laundry Wash,Aldi,2022,82831.37333
+Laundry Wash,Aldi,2023,18648.33317
+Cleaning,Aldi,2020,150106.8319
+Cleaning,Aldi,2021,134015.2629
+Cleaning,Aldi,2022,120973.8843
+Cleaning,Aldi,2023,85356.16784
+Laundry Refreshment,Aldi,2020,48099.4581
+Laundry Refreshment,Aldi,2021,46185.80718
+Laundry Refreshment,Aldi,2022,95226.46171
+Laundry Refreshment,Aldi,2023,25320.45964
+Cleaning,Lidl,2022,0
